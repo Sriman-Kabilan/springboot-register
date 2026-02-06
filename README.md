@@ -62,7 +62,7 @@ Spring Boot REST API (Railway)
 
 ### Base URL
 ```
-https://springbootregister-production.up.railway.app/api
+[https://springboot-register.onrender.com/api]
 ```
 
 ### 1. Register User
